@@ -6,4 +6,4 @@ Issuesにスクリーンショットを貼りやすいのでIssuesを使いた�
 
 ### おもな活動
 
-* [気になったフォントファミリーを集めるスレ](#1)
+* [気になったフォントファミリーを集めるスレ](https://github.com/prog4designer/designers_stocks/issues/1)
